@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "turbo-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@turbo-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "b8f23802446e82a6c830bee83bf4d5311aa191c5"
 }
