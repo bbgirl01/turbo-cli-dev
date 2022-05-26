@@ -22,5 +22,8 @@
   "dependencies": {
     "@turbo-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "b8f23802446e82a6c830bee83bf4d5311aa191c5"
+  "gitHead": "b8f23802446e82a6c830bee83bf4d5311aa191c5",
+  "publishConfig": {
+    "access": "public"
+  }
 }
