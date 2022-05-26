@@ -1,6 +1,6 @@
 {
   "name": "@turbo-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "小小小小木 <fangfang.zhang@slan-health.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@turbo-cli-dev/utils": "^1.0.2"
+    "@turbo-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "b8f23802446e82a6c830bee83bf4d5311aa191c5",
   "publishConfig": {
